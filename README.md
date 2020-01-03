@@ -1,7 +1,10 @@
 # xtrx-docs
-XTRX Software Defined Radio documentation files
+XTRX Software Defined Radio hardware documentation files
 
-Visit https://xtrx.io for more information.
+Other sources of documentation:
+
+* https://github.com/xtrx-sdr/images - for the software documentation
+* https://www.crowdsupply.com/fairwaves/xtrx - for general XTRX information
 
 ## 3D models
 * [XTRXr4_step.zip](XTRXr4_step.zip) - XTRX rev4 Step 3D model
