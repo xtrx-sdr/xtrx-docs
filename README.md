@@ -1,5 +1,4 @@
-# xtrx-docs
-XTRX Software Defined Radio hardware documentation files
+# Fairwaves XTRX Software Defined Radio hardware documentation files
 
 Other sources of documentation:
 
